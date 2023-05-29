@@ -1,0 +1,1 @@
+In this code, we import the "net/http/pprof" package and start an HTTP server to expose profiling endpoints. By running the application and accessing http://localhost:6060/debug/pprof/ in a web browser, you can see various profiling options, including memory profiling. Analyzing the memory profile can help detect memory leaks in the code.
